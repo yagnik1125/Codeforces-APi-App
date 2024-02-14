@@ -1,0 +1,7 @@
+https://codeforces.com/apiHelp/objects#ProblemResult
+https://codeforces.com/api/problemset.problems?
+https://codeforces.com/problemset/status/1927/problem/F
+https://codeforces.com/problemset/submission/1927/245557090
+https://codeforces.com/problemset
+https://codeforces.com/submissions/Yagnik_Vasoya
+https://codeforces.com/api/user.status?handle=yagnik_vasoya&from=1
